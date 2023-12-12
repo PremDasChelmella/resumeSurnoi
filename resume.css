@@ -1,0 +1,151 @@
+body{
+    background-color: #38343c;
+}
+.container{
+    background-color: #F8EBD7;
+    height: 100%;
+    background-size: cover;
+    width: 100%;
+    
+}
+.boxes{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+}
+.box1{
+    margin-left: 80px;
+    margin-right: 80px;
+    
+}
+.line1{
+    height: 8px;
+    width: 100%;
+    background-color: #326182;
+}
+.line2{
+    height: 8px;
+    width: 100%;
+    background-color:#ACDAFC;
+    margin-bottom: 0;
+}
+.name-heading{
+    font-family:"Bookman Old Style" ;
+    font-size: 90px;
+    color:#2A5B7F ;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.sub-heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.ph-para{
+    padding-right: 20px;
+    color: black;
+    font-family: "Rockwell";
+    font-size: 24px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+}
+.email-para{
+    color: black;
+    font-family: "Rockwell";
+    font-size: 24px;
+    padding-left: 10px;
+    margin: 0;
+}
+.edu-heading{
+    color:#2A5B7F ;
+    font-size: 40px;
+    font-family: "Franklin Gothic Medium";
+    padding-left: 20px;
+    margin-bottom: 0;
+}
+
+.edu-para{
+    font-family: "Rockwell";
+    font-size: 20px;
+    color: #404040;
+    padding-left: 20px;
+    margin: 0;
+}
+.edu-para1{
+    margin-bottom: 10px;
+}
+
+.left-box{
+    width: 70%;
+    margin: 80px;
+    margin-top: 25px;
+}
+
+.proj1-heading{
+    font-family: "Rockwell";
+    font-weight: bold;
+    font-size:20px;
+    color: #4B4A49;
+    padding-left: 20px;
+    font-weight: bold;
+}
+.proj1-para{
+    font-family: "Rockwell";
+    font-size: 22px;
+    color: #4B4A49;
+    padding-left: 20px;
+}
+
+.dec-para{
+    font-family: "Rockwell";
+    font-size: 22px;
+    color: #4B4A49;
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+.dec-sub-para{
+    display: flex;
+
+}
+
+.sub-declaration{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.right-box{
+    width: 30%;
+    background-color:#ABDAFC;
+    margin: 30px;
+    padding: 15px;
+}
+
+.rb-heading{
+    color: #2A5B7F;
+    font-family: "Franklin Gothic Medium";
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: none;
+    margin-top: 0;
+}
+
+.UL-list-items{
+    font-family: "Gill Sans MT";
+    font-size: 26px;
+    
+}
+.list-item{
+    padding-bottom: 15px;
+}
+
+.line3{
+    background-color:#2A5B7F ;
+    width: 100%;
+    height: 3px;
+}
